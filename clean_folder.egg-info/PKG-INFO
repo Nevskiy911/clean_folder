@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.0.1
+Summary: script for sorting files in folders by extension
+Home-page: https://github.com/Nevskiy911/
+Author: Oleksandr Malieiev
+Author-email: maleev1820@gmail.com
+License: MIT
